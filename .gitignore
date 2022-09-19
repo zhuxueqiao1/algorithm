@@ -25,6 +25,7 @@ mvnw
 
 ### NetBeans ###
 /nbproject/private/
+/out
 /nbbuild/
 /dist/
 /nbdist/
